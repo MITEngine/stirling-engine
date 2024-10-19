@@ -1,2 +1,2 @@
 # stirling-engine
-Stirling Engine
+Stirling Engine Tachometer
